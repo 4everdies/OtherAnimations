@@ -1,0 +1,16 @@
+[
+{
+  "modid": "otheranimations",
+  "name": "Other Animations",
+  "description": "Custom animations mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/4everdies/otheranimations",
+  "updateUrl": "",
+  "authorList": ["4everdies"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": ["showcase.png"],
+  "dependencies": []
+}
+]
